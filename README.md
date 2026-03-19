@@ -1,11 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=39FF14&center=false&vCenter=true&width=435&lines=Hey+there!+:)" alt="Typing SVG" />
 
-### About Me
-- 🌃 Coding day and night
-- 💻 Building sleek, responsive interfaces for web & mobile
-- 🌍 Based in **Lithuania** 🇱🇹
-
-### Tech Stack
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
